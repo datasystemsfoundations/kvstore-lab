@@ -17,7 +17,7 @@ All generated artifacts (SSTables, WAL files, images, SQLite DBs) are written to
 
 ```bash
 # 1. Install dependencies
-./setup.sh
+bash setup.sh
 
 # 2. Activate the virtual environment
 source .venv/bin/activate
